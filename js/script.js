@@ -8,4 +8,5 @@ let personalMovies = {
 	actors: actors,
 	genres: genres,
 	privat: false
-}
+};
+
